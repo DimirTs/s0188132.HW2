@@ -1,0 +1,29 @@
+#logo{
+    border-radius:50px;
+    width: 100px;
+    height: 100px;
+    float:left;
+    margin-right: 10px;
+}
+#navig{
+    margin: auto;
+}
+name{
+    color: brown;
+    font-size: 80pt;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    line-height: 100%;
+}
+/*body{
+    height: max-content;
+    width: max-content;
+    background-image:url("C:\Users\User\Desktop\WEB\background1.png");
+    background-size: cover;
+    background-position: center;
+}*/
+footer{
+    font-size: 20px;
+    font-weight: bold;
+}
